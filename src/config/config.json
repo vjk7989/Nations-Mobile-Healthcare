@@ -1,7 +1,7 @@
 {
   "site": {
-    "title": "Bigspring Light Astro",
-    "base_url": "https://www.linkedin.com/in/vijay-tadepalli-279746226/",
+    "title": "NMHC",
+    "base_url": "https://nations-mobile-healthcare.vercel.app/",
     "base_path": "/",
     "trailing_slash": false,
     "favicon": "/images/favicon.png",
