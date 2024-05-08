@@ -6,8 +6,8 @@
     "trailing_slash": false,
     "favicon": "/images/favicon.png",
     "logo": "/images/logo.png",
-    "logo_width": "200",
-    "logo_height": "38",
+    "logo_width": "450",
+    "logo_height": "63",
     "logo_text": "Astroplate"
   },
 
@@ -26,7 +26,7 @@
   "params": {
     "contact_form_action": "",
     "tag_manager_id": "",
-    "footer_content": "Lorem ipsum dolor sit amet, consectetur elit. Consjat tristique eget amet, tempus eu at cttur.",
+    "footer_content": "A compleate mobile healthcare services in India",
     "copyright": "Designed and Developed By [ViKii](https://www.linkedin.com/in/vijay-tadepalli-279746226/)"
   },
 
